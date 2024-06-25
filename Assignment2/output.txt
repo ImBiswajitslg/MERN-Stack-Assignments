@@ -1,0 +1,11 @@
+Explain the output of the following code snippet and why,
+Input:
+console.log(foo);
+var foo = "Hello, World!";
+console.log(foo);
+Output:
+Undefined
+"Hello, World!"
+Explaination:
+In the 1st line, the variable foo is not defined, that's why it gives the output Undefined.
+in the 2nd time, the variable is assigned a string value, and output that String i.e. "Hello, World!". 
