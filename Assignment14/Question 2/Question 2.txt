@@ -1,0 +1,6 @@
+File Operations with fs Module
+Scenario: You are tasked with creating a script that reads data from a JSON file,
+modifies the data, and then writes the updated data back to the file.
+Requirements:
+a. Read data from a file named data.json located in the current directory. b. Add a new field lastModified with the current timestamp to each object in
+the JSON array. c. Write the modified data back to the same file.

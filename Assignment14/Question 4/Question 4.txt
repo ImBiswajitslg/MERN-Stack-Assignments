@@ -1,0 +1,6 @@
+URL Parsing with url Module
+Scenario: You are given a URL and need to extract and log specific parts of it,
+such as the protocol, hostname, and pathname.
+Requirements:
+a. Use a sample URL: http://www.example.com/path/name?name=JohnDoe.
+b. Parse the URL and log the protocol, hostname, and pathname.

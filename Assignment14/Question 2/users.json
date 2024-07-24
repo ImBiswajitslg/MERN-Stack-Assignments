@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Product A",
+    "price": 19.99,
+    "lastModified": 1721789815
+  },
+  {
+    "id": 2,
+    "title": "Product B",
+    "price": 29.99,
+    "lastModified": 1721789815
+  }
+]

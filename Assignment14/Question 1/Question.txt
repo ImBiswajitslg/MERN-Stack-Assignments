@@ -1,0 +1,7 @@
+Creating a Simple HTTP Server
+Scenario: You are developing a basic web server to serve static HTML files for a
+small personal website. Create a Node.js module that sets up a basic HTTPserver. Requirements:
+a. The server should respond with an HTML file when a request is made to
+the root URL (/).
+b. Use the fs module to read the HTML file.
+c. Handle 404 errors for any other routes.
